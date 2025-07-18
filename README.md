@@ -6,10 +6,6 @@ A simple Go package that allows you to send messages to a Discord channel using 
 
 1. [Installation](#1-installation)
 2. [Usage](#2-usage)
-    2.1 Setting the Webhook URL
-    2.2 Sending Simple Text Messages
-    2.3 Sending Custom JSON Payloads
-    2.4 Sending Custom Discord Messages
 3. Examples
 4. License
 
