@@ -23,7 +23,7 @@ Before sending any messages, you need to set the Discord webhook URL. This can b
 
 ```go
 
-import "github.com/yourusername/discord_notifier"
+import "github.com/iamlucif3r/not1fy"
 
 webhookURL := "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN"
 discord_notifier.SetWebhookURL(webhookURL)
